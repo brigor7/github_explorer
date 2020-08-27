@@ -1,6 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
 import githubBackground from '../assets/github-background.svg';
-import renascerBackground from '../assets/renascer-background.svg';
 
 export default createGlobalStyle`
   *{
